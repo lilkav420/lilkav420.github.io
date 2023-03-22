@@ -15,6 +15,10 @@ body {
         --bs-secondary: #9cc9eb;
         --bs-secondary-rgb: 156,201,235;
     }
+    .expedu_icon {
+        color: #495057;
+    }
+    
     .social-icons .social-icon:hover {
         background-color: var(--bs-secondary);
     }
