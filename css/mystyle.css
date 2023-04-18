@@ -24,3 +24,22 @@ body {
 .social-icons .social-icon:hover {
         background-color: var(--bs-secondary);
     }
+    table{
+        width: 100%;
+    }
+    
+    th,td{
+        text-align:left;
+        border: 3px solid black;
+    }
+    
+    th:nth-child(odd){
+        color:#faf7f7;
+        background-color: #b200ca;
+    }
+    
+    td:nth-child(odd){
+        color:#ffffff;
+        background-color: #4e1156;
+    }
+    
